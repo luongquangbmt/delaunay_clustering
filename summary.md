@@ -6,7 +6,9 @@ https://iopscience.iop.org/article/10.3847/1538-4357/ab45e9/pdf
 ## 4.1. SiO Spectra and Integrated Intensity Map
 To identify the SiO emission features, use the 12 m array data only, 7 mm array only and the combined of 12m + 7m + ACA. 
 We first look at SiO using the continuum maps of Sanhueza et al. 2020: if they are detected within the extend of these pixels, they will be label as dust associated SiO emission
-Maybe this can be done automatically using dust map as a mask and just colvolve the SiO cube to that of dust, measure SiO spectra within the central or two beam.     
+Maybe this can be done automatically using dust map as a mask and just colvolve the SiO cube to that of dust, measure SiO spectra within the central or two beam.--> fraction of SiO gas in dust
+
+
 We then look at SiO using the CO outflow map: if they are detected within the extend of these pixels, they will be label as outflow associated SiO emission. We sereach
 Maybe this can be done automatically using outfloz map as a mask https://iopscience.iop.org/article/10.3847/1538-4357/abb81f/pdf
 We label the rest of SiO emission as other SiO emission feature
