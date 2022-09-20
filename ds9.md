@@ -21,3 +21,10 @@ Click on color: choose the color pallet that you like
 Click on scale, choose Zscale (or play around with it to sshow the signal better
 Then click on scale parameters, set low to 0 (always); you can vary max value
 
+
+
+casa
+importfits?
+im = importfits(fitsimage='.fits', imagename='ashes_cube')
+imrebin(outfile='ashes_cube_rebin', imagename='ashes_cube',factor=[2,2])
+exportfits(fitsimage='.fits', imagename='ashes_cube_rebin',velocity=True, dropstokes=True)
