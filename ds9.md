@@ -18,6 +18,6 @@ click on Frame, a panel show up. Match is somewhere in the middle
 If you click on the 3D frame, you can slide the Cube window, it will tell you which slice you are in
 
 Click on color: choose the color pallet that you like
-Click on scale, choose Zscale (or play around with it)
+Click on scale, choose Zscale (or play around with it to sshow the signal better
 Then click on scale parameters, set low to 0 (always); you can vary max value
 
