@@ -3,6 +3,10 @@
 # PROPERTIES OF IRDCs.
 https://iopscience.iop.org/article/10.3847/1538-4357/ab45e9/pdf
 # Results
+## 4.0. SiO 5-4 Integrated Intensity map and dust map 
+We integrate the SiO emisison a
+
+
 ## 4.1. SiO Spectra and Integrated Intensity Map
 To identify the SiO emission features, use the 12 m array data only, 7 mm array only and the combined of 12m + 7m + ACA. 
 We first look at SiO using the continuum maps of Sanhueza et al. 2020: if they are detected within the extend of these pixels, they will be label as dust associated SiO emission
