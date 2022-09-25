@@ -4,6 +4,10 @@
 https://iopscience.iop.org/article/10.3847/1538-4357/ab45e9/pdf
 
 # Analysis
+
+From cube, make integrated mom 0,1,2 maps using the entire velocity extents of the outflows ().
+Create two sets of data. with name irdxxxx_mom.fits
+
 ## 4.-1. Visualization of SiO integrated intensity map -- Christopher 
 We integrate the SiO emisison a
 
