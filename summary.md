@@ -2,8 +2,16 @@
 # Observations: Using https://iopscience.iop.org/article/10.3847/1538-4357/abb81f/pdf. + last paper
 # PROPERTIES OF IRDCs.
 https://iopscience.iop.org/article/10.3847/1538-4357/ab45e9/pdf
-# Results
-## 4.0. SiO 5-4 Integrated Intensity map and dust map 
+
+# Analysis
+## 4.-1. Visualization of SiO integrated intensity map -- Christopher 
+We integrate the SiO emisison a
+
+
+## 4.0. SiO 5-4 Integrated Intensity map and dust map -- Joey
+We integrate the SiO emisison a
+
+## 4.0. Automated clustering with Dendrogram -- Troy
 We integrate the SiO emisison a
 
 
