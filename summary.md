@@ -46,3 +46,16 @@ General intro to SiO
 
 # Discussion
 
+
+
+Raw
+12m
+https://www.dropbox.com/scl/fo/y1l4vqbksh9zcp5ulslnb/h?dl=0&rlkey=xjdlzt94bwpkbifvlysn58bd8nlq
+
+
+12m7m
+https://www.dropbox.com/scl/fo/y4eli95cj3eow5rpdkdx0/h?dl=0&rlkey=vm3p02nozx8jsgxo5b9mjzcddnlq
+
+12m7mTP
+https://www.dropbox.com/scl/fo/x5npwnzow5m9kbwglngge/h?dl=0&rlkey=btn9owysjgctsfyq05a2sxaehnlq
+
